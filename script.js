@@ -30,8 +30,8 @@ function convertTemperature() {
 
   //output
   output.innerHTML = `
-    🌡️ Celsius: ${celsius.toFixed(2)} °C<br>
-    🔥 Fahrenheit: ${fahrenheit.toFixed(2)} °F<br>
-    🧊 Kelvin: ${kelvin.toFixed(2)} K
+     Celsius: ${celsius.toFixed(2)} °C<br>
+     Fahrenheit: ${fahrenheit.toFixed(2)} °F<br>
+     Kelvin: ${kelvin.toFixed(2)} K
   `;
 }
