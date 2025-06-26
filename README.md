@@ -32,8 +32,7 @@ This is a simple and user-friendly web application that converts temperatures be
 ## Live Demo
 
 You can access the live version of this project here:  
-(https://pushpaktiwarii.github.io/PRODIGY_SD_01/)
-
+https://pushpaktiwarii.github.io/Temperature-Converter/
 ## Purpose
 
 This project was developed as part of an internship task for the Software Development Intern role at Prodigy InfoTech.
